@@ -1,0 +1,20 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: black;
+}
+h2 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    margin: 0 50px;
+  color: black;
+    white-space: nowrap;
+    float: left;
+}
+h1
+{
+  color: white;
+}
